@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Oi! Eu sou a <strong>Morgana</strong> ☕<br>
-  Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo.
+  Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo.<br>
   No momento, faço parte de uma bolsa de iniciação científica na qual estudo Visão Computacional com a utilização da linguagem Python e bibliotecas como OpenCV, Matplotlib e Numpy.
 </p>
 
