@@ -1,4 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=morgasoresina&theme=cobalt&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=morgasoresina&theme=cobalt&show_icons=true"><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=morgasoresina&show_icons=true&locale=en&layout=compact&theme=cobalt">
 
 <p align="left"> 
   Oi! Eu sou a <strong>Morgana</strong> ☕<br>
