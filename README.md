@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Oi! Eu sou a <strong>Morgana</strong> ☕<br>
-  Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo e desenvolvo em Flutter.
+  Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo e desenvolvo em Dart.
 </p>
 
 <p align="left">
