@@ -1,19 +1,25 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=morgasoresina&theme=cobalt&show_icons=true">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/11b078111893819.600a2261120fe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Oi! Eu sou a <strong>Morgana</strong> ☕<br>
-  Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo e desenvolvo em Dart.
+<p align="left">
+  🇧🇷 Olá! Eu sou a <strong>Morgana</strong> ☕<br>
+  Sou acadêmica de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo (UPF), desenvolvedora web full stack e uma das criadoras da Cross-Eyed Cat Studios, uma startup que visa maximizar o mercado de jogos eletrônicos no Rio Grande do Sul e no Brasil!
+</p>
+<p align="left">
+  🇺🇸 Hi, I'm <strong>Morgana</strong>! ☕<br>
+  I am a System Analysis and Development student at Universidade de Passo Fundo (UPF), full stack web developer and one of the founders of Cross-Eyed Cat Studios, a startup that aims to maximize the eletronic games market in Rio Grande do Sul and Brazil!
 </p>
 
 <p align="left">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="BST" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="REACTJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="FLUTTER" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="DART" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="CSHARP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </p>
 
 <p align="left">
