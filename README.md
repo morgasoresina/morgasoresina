@@ -2,11 +2,11 @@
 
 <p align="left">
   🇧🇷 Olá! Eu sou a <strong>Morgana</strong> ☕<br>
-  Sou acadêmica de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo (UPF), desenvolvedora web full stack e uma das criadoras da Cross-Eyed Cat Studios, uma startup que visa maximizar o mercado de jogos eletrônicos no Rio Grande do Sul e no Brasil!
+  Sou acadêmica de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo (UPF), desenvolvedora web front end e uma das criadoras da Cross-Eyed Cat Studios, uma startup que visa maximizar o mercado de jogos eletrônicos no Rio Grande do Sul e no Brasil!
 </p>
 <p align="left">
   🇺🇸 Hi, I'm <strong>Morgana</strong>! ☕<br>
-  I am a System Analysis and Development student at Universidade de Passo Fundo (UPF), full stack web developer and one of the founders of Cross-Eyed Cat Studios, a startup that aims to maximize the eletronic games market in Rio Grande do Sul and Brazil!
+  I am a System Analysis and Development student at Universidade de Passo Fundo (UPF), front end web developer and one of the founders of Cross-Eyed Cat Studios, a startup that aims to maximize the eletronic games market in Rio Grande do Sul and Brazil!
 </p>
 
 <p align="left">
