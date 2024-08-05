@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/11b078111893819.600a2261120fe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/b9/f4/e2/b9f4e2745f4d751efce77237c5cdb5e0.gif" alt="oshawott" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   🇧🇷 Olá! Eu sou a <strong>Morgana</strong> ☕<br>
