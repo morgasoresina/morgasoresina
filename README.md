@@ -2,11 +2,11 @@
 
 <p align="left">
   🇧🇷 Olá! Eu sou a <strong>Morgana</strong> ☕<br>
-  Sou acadêmica de Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo (UPF), desenvolvedora web front end e uma das criadoras da Cross-Eyed Cat Studios, uma startup que visa maximizar o mercado de jogos eletrônicos no Rio Grande do Sul e no Brasil!
+  Front-End Developer especializada em React.js e suas bibliotecas, JavaScript e TypeScript. Sou apaixonada por criar interfaces incríveis que combinam funcionalidade e estética, sempre comprometida em traduzir fielmente o design em código. Também possuo um grande apreço por design de interfaces e experiência do usuário!
 </p>
 <p align="left">
   🇺🇸 Hi, I'm <strong>Morgana</strong>! ☕<br>
-  I am a System Analysis and Development student at Universidade de Passo Fundo (UPF), front end web developer and one of the founders of Cross-Eyed Cat Studios, a startup that aims to maximize the eletronic games market in Rio Grande do Sul and Brazil!
+  I'm a Front-End Developer specialized in React.js and its libraries, JavaScript, and TypeScript. I'm passionate about creating amazing interfaces that blend functionality and aesthetics, always committed to faithfully translating design into code. I also have a strong appreciation for interface design and user experience!
 </p>
 
 <p align="left">
